@@ -1,5 +1,3 @@
-![Header](./https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTONRmB-C2x_LHHFSUoDZGYv2AWeQHSbRrHgA&s)
-
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate junior DevOps & cloud engineer from India</h3>
 
