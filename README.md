@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate junior DevOps & cloud engineer from India</h3>
-
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*reRpiezl3EnhtteqjoGSLw.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil1422003&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil1422003" /> </p>
 
 - 🌱 I’m currently learning **DevOps & cloud (AWS)**
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/nikhilc.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil.c5" height="30" width="40" /></a>
+<a href="https://instagram.com/nikhil.c5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil.c5" height="30" width="40" /></a>
 <a href="https://medium.com/@challanikhil48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@challanikhil48" height="30" width="40" /></a>
 </p>
 
@@ -28,4 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil1422003&show_icons=true&locale=en&layout=compact" alt="nikhil1422003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil1422003&show_icons=true&locale=en" alt="nikhil1422003" /></p>
-
